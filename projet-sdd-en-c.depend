@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1645544230 source:/home/chaldrak/workspace/SAMUEL PROJET SDD EN C/projet-sdd-en-c/main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1645547290 /home/chaldrak/workspace/SAMUEL PROJET SDD EN C/projet-sdd-en-c/fonction.h
+	"entete.h"
+
+1645543423 /home/chaldrak/workspace/SAMUEL PROJET SDD EN C/projet-sdd-en-c/entete.h
+
